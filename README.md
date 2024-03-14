@@ -18,3 +18,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+![Alt text](./captura-de-tela-desafio.jpg "Optional title")
