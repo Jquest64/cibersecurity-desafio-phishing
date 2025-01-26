@@ -1,5 +1,7 @@
 # cibersecurity-desafio-phishing
- Criação de um phishing para captura de senha, usando o Kali Linux.
+Para o desafio de phishing no Kali Linux, segui o passo a passo, mas encontrei um problema com os navegadores atuais que não permitem a captura do nome de usuário e senha no clone do site do Facebook. Resolvi esse problema utilizando um navegador do Windows 7 na máquina virtual instalada.
+
+Criação de um phishing para captura de senha, usando o Kali Linux.
 ## Passo a passo
 ### Ferramentas
 
